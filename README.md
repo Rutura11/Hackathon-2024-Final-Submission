@@ -57,10 +57,10 @@ Interactive Tabs and Functionalities
   A dedicated section to forecast youth unemployment rates by region.
 
 Predictive Model for Unemployment Rate
-The dashboard includes a feature that predicts youth unemployment rates for specific regions. Users can:
-  Select a region from a dropdown menu.
-  Initiate a prediction with a simple button click.
-View the predicted unemployment rate alongside a visual representation of trends.
+ The dashboard includes a feature that predicts youth unemployment rates for specific regions. Users can:
+        Select a region from a dropdown menu.
+        Initiate a prediction with a simple button click. 
+        View the predicted unemployment rate alongside a visual representation of trends.
 This predictive model provides valuable foresight for regional decision-makers to anticipate challenges and develop targeted interventions.
 
 Tools and Technologies
