@@ -59,7 +59,7 @@ Interactive Tabs and Functionalities
 Predictive Model for Unemployment Rate
  The dashboard includes a feature that predicts youth unemployment rates for specific regions. Users can:
  
-          Select a region from a dropdown menu.
+        Select a region from a dropdown menu.
         Initiate a prediction with a simple button click. 
         View the predicted unemployment rate alongside a visual representation of trends.
 This predictive model provides valuable foresight for regional decision-makers to anticipate challenges and develop targeted interventions.
@@ -75,17 +75,22 @@ Tools and Technologies:
 
 
 Key Insights and Outputs
+
     Employment Trends:
+        
         Insight: Majority of youth employment occurs in agriculture, with significant regional variations.
         Trend: Rural youth face higher unemployment rates compared to urban youth.
-
+        
     Education Gaps:
+        
         Insight: Low enrollment in vocational training programs limits skills development.
 
     Poverty and Financial Inclusion:
+    
         Trend: Financial exclusion is prevalent among rural youth, hindering entrepreneurship opportunities.
 
     Health and Wellbeing:
+    
         Finding: Limited access to reproductive health services impacts youth health metrics.
 
 
