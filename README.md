@@ -63,7 +63,7 @@ Predictive Model for Unemployment Rate
         View the predicted unemployment rate alongside a visual representation of trends.
 This predictive model provides valuable foresight for regional decision-makers to anticipate challenges and develop targeted interventions.
 
-Tools and Technologies
+Tools and Technologies:
     Programming Language: R
     Framework: Shiny Dashboard
     Data Analysis Libraries: tidyverse, dplyr, readxl
