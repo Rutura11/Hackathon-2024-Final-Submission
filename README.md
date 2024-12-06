@@ -13,6 +13,7 @@ Problem Statement
 Rwandan youth face significant challenges in areas such as unemployment, poverty, and limited access to education and healthcare. These barriers hinder their potential and limit national growth. This project aims to use data to address these challenges, proposing actionable interventions for a brighter future for Rwanda’s young generation.
 
 Objectives
+
 The dashboard is designed to:
 
     Visualize Trends: Present key data on youth employment, education, health, and financial inclusion in an intuitive format.
