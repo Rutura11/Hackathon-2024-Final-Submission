@@ -1,11 +1,13 @@
 RWANDAN YOUTH CHALLENGES: DATA SCIENCE DASHBOARD
 
 Overview
+
 This interactive dashboard provides a comprehensive view of key challenges faced by the youth in Rwanda. Using data sourced from NISR (EICV5 Youth Thematic Report) and National Youth Center (NYC strategic plan 2021-2025) the project combines insights from employment, poverty, education, health, and financial inclusion to drive impactful solutions.
 With this dashboard, policymakers, researchers, and community leaders can explore critical metrics, trends, and visualizations, empowering them to make informed decisions to support Rwanda’s youth.
 
 
 Problem Statement
+
 Rwandan youth face significant challenges in areas such as unemployment, poverty, and limited access to education and healthcare. These barriers hinder their potential and limit national growth. This project aims to use data to address these challenges, proposing actionable interventions for a brighter future for Rwanda’s young generation.
 
 Objectives
@@ -20,6 +22,7 @@ The dashboard is designed to:
 Features
    Datasets Used
    The dashboard integrates multiple datasets, including:
+   
     Youth Employment and Poverty: Youth employment rates, poverty statistics, and barriers to employment.
     Job Distribution: Sectoral and industrial job distribution data.
     Regional Variations: Regional employment, education, and health statistics.
