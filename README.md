@@ -121,8 +121,9 @@ Contributors:
 Acknowledgments
 
 This project was made possible through data from:
+
     NISR EICV5 Youth Report (https://statistics.gov.rw/publication/eicv5thematic-reportyouth)
-   and NYC Strategic Plan (2021-2025) (https://www.nyc.gov.rw/publications?tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FNYC%2FPublications%2FStrategic_plan%2F&cHash=8739f80889f0bd92faf012611312138a)
+    NYC Strategic Plan (2021-2025) (https://www.nyc.gov.rw/publications?tx_filelist_filelist%5Baction%5D=list&tx_filelist_filelist%5Bcontroller%5D=File&tx_filelist_filelist%5Bpath%5D=%2Fuser_upload%2FNYC%2FPublications%2FStrategic_plan%2F&cHash=8739f80889f0bd92faf012611312138a)
 
 Contact
 For questions or feedback, please contact us at [abizeimanaarthur@gmail.com].
