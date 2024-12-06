@@ -52,7 +52,7 @@ Interactive Tabs and Functionalities
 
     Recommended Actions
         Data-driven strategies to address youth challenges in employment, education, health, and finance.
-  Predictive Modeling
+    Predictive Modeling
         A dedicated section to forecast youth unemployment rates by region.
 
 Predictive Model for Unemployment Rate
