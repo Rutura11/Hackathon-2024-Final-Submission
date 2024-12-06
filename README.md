@@ -63,7 +63,7 @@ Predictive Model for Unemployment Rate
         Initiate a prediction with a simple button click. 
         View the predicted unemployment rate alongside a visual representation of trends.
 This predictive model provides valuable foresight for regional decision-makers to anticipate challenges and develop targeted interventions.
-This prediction model estimates unemployment rates for specific regions based on current employment and underemployment data. It helps understand regional disparities in employment conditions, rather than forecasting future unemployment trends.
+This prediction model also estimates unemployment rates for specific regions based on current employment and underemployment data. It helps understand regional disparities in employment conditions, rather than forecasting future unemployment trends.
 
 Tools and Technologies:
 
@@ -97,18 +97,21 @@ Key Insights and Outputs
 
 
 Access the Dashboard
+
     Shinyapp.io Link: (https://ingaboteam.shinyapps.io/RwandanYouthchallengesDashboard/)
     and gitHub Repository: (https://github.com/Rutura11/Hackathon-2024-Final-Submission)
 
 
 
 How to Use the Dashboard
+
     Use the sidebar menu to navigate through sections.
     Apply filters to customize views by region, gender, or other demographics.
     Explore visualizations to identify trends and derive insights.
 
 
 Contributors:
+
     Marie Ange ISABWE, 
     Patrick UWIRINGIYEMUNGU and 
     Arthur ABIZEYIMANA
