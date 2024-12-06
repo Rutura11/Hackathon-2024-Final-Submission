@@ -35,10 +35,10 @@ Features
     Financial Inclusion: Rates of financial exclusion and access to entrepreneurship programs.
 
 Interactive Tabs and Functionalities
+
     Home
         Introduction to the dashboard’s purpose and features.
         Quick navigation to key sections.
-
     Overview
         Youth economic and poverty status.
         Job and industry-specific employment data.
