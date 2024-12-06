@@ -1,0 +1,13 @@
+name: RwandanYouthchallengesDashboard
+title: RwandanYouthchallengesDashboard
+username: ingaboteam
+account: ingaboteam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13339408
+bundleId: 9363079
+url: https://ingaboteam.shinyapps.io/RwandanYouthchallengesDashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Book1.xlsx|Draft.txt|screenshot 2024-10-23 at 16.42.33_00c8754c.jpg|Screenshot 2024-10-24 095014.png|USABLE DRAFT.xlsx
