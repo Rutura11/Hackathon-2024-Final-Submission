@@ -1,4 +1,4 @@
-Youth Challenges in Rwanda: Data Science Dashboard
+RWANDAN YOUTH CHALLENGES: DATA SCIENCE DASHBOARD
 
 Overview
 This interactive dashboard provides a comprehensive view of key challenges faced by the youth in Rwanda. Using data sourced from NISR (EICV5 Youth Thematic Report) and National Youth Center (NYC strategic plan 2021-2025) the project combines insights from employment, poverty, education, health, and financial inclusion to drive impactful solutions.
@@ -58,9 +58,8 @@ Interactive Tabs and Functionalities
 
 Predictive Model for Unemployment Rate
 The dashboard includes a feature that predicts youth unemployment rates for specific regions. Users can:
-
-Select a region from a dropdown menu.
-Initiate a prediction with a simple button click.
+  Select a region from a dropdown menu.
+  Initiate a prediction with a simple button click.
 View the predicted unemployment rate alongside a visual representation of trends.
 This predictive model provides valuable foresight for regional decision-makers to anticipate challenges and develop targeted interventions.
 
